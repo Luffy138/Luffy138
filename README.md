@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B132B,45:0A84FF,100:00E5FF&text=Hey%2C%20I'm%20YOUR%20NAME&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%A2%20One%20commit%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B132B,45:0A84FF,100:00E5FF&text=Hey%2C%20I'm%20ESHWAR%20DASARI&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Building%20things%20that%20matter%20%E2%80%A2%20One%20commit%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://github.com/ESHWAR DASARI">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=%3E+Developer+%7C+Problem+Solver+%7C+Tinkerer;%3E+Turning+coffee+into+clean+code;%3E+Always+learning%2C+always+shipping;%3E+Open+to+collaborate+%F0%9F%9A%80" alt="typing intro"/>
@@ -161,7 +161,7 @@ const me = {
 
 ## 🛰️ &nbsp;Currently
 
-- 🔭 Working on **[PROJECT NAME]**
+- 🔭 Working on **[HIGH FREQUENCY TEXT TO STOCK TRANSFORMER]**
 - 🌱 Learning **[NEW TECH]**
 - 🤝 Looking to collaborate on **[TOPIC]**
 - 💬 Ask me about **[YOUR EXPERTISE]**
