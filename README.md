@@ -41,7 +41,7 @@
 
 ```ts
 const me = {
-  name:     "YOUR NAME",
+  name:     "ESHWAR DASARI",
   role:     "[Student / Developer / Engineer]",
   location: "Hyderabad, India",
   focus:    ["[Your main focus]", "[Second focus]", "[Third focus]"],
