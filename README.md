@@ -20,8 +20,8 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="300" valign="middle"><img src="./assets/assets/Gemini_Generated_Image_68q4t368q4t368q4.png" width="300" alt="dotted portrait"/></td>
-<td width="580" valign="middle"><img src="./assets/about.svg" width="580" alt="about"/></td>
+<td width="250" valign="middle"><img src="./assets/assets/Gemini_Generated_Image_68q4t368q4t368q4.png" width="300" alt="dotted portrait"/></td>
+<td width="580" valign="middle"><img src="./assets/Gemini_Generated_Image_68q4t368q4t368q4.png" width="580" alt="about"/></td>
 </tr>
 </table>
 
