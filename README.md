@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Eshwar Dasari | Data Science & Machine Learning"/>
+<img src="./assets/assets/Gemini_Generated_Image_393qj5393qj5393q.svg" width="100%" alt="Eshwar Dasari | Data Science & Machine Learning"/>
 
 Data Science Undergraduate | Machine Learning | NLP | Data Analytics
 
